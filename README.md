@@ -16,5 +16,3 @@ useful for displaying the following data:
 4. Comparison of the number of public and private schools
 5. Number of schools by level and status in Indonesia
 6. Number of schools by status (private/public) in city districts in Indonesia
-
-                                                                                                                          |
